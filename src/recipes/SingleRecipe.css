@@ -1,0 +1,81 @@
+.recipe-panel{
+    font-size: large;
+    background: white;
+    color: black;
+    border-radius: 20px;
+    padding: 0 20px 50px 20px;
+    margin: 20px;
+}
+
+.recipe-panel > img{
+    margin-bottom: 20px;
+    border-radius: 20px;
+    width: 45%;
+}
+
+.recipe-panel > h1{
+    font-family: Jokerman, sans-serif;
+}
+
+.ingredients-table{
+    border: dotted 10px;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 10px;
+    margin-bottom: 30px;
+}
+
+.ingredients-table > tbody > tr > td{
+    border: solid 2px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+.recipe-desc-part{
+    text-align: left;
+    border: solid 5px;
+    border-radius: 20px;
+    padding: 5px;
+}
+
+.recipe-note-part > p{
+    text-align: justify;
+}
+
+.cake-diameter-part{
+    background: #00d188;
+    border-radius: 20px;
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+}
+
+.cake-diameter-part > input{
+    border: solid 2px;
+    border-radius: 20px;
+    font-size: x-large;
+    margin-bottom: 20px;
+}
+
+#cake-diameter-part-note{
+    font-size: x-small;
+    font-family: sans-serif;
+    font-weight: bold;
+    text-transform: uppercase;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+.cake-diameter-part > p{
+    font-size: x-large;
+    font-family: Jokerman, sans-serif;
+}
+
+.button-change-ingredients{
+    border-radius: 10px;
+    background: white;
+    color: black;
+    font-family: Jokerman, sans-serif;
+    margin-bottom: 10px;
+}

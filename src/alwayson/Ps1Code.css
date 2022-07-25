@@ -1,0 +1,14 @@
+.code-tab{
+    text-align: left;
+}
+
+.click-ps1-copy-code{
+    background: white;
+    color: black;
+    border-radius: 20px;
+    font-family: Jokerman, sans-serif;
+    font-size: large;
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+}

@@ -1,0 +1,46 @@
+.dashboard{
+    background-size: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+    height: 36vw;
+    width: 55%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.dashboard > textarea{
+    height: 67%;
+    width: 87%;
+    margin-top: 33%;
+}
+
+@media screen and (orientation: portrait) and (max-device-width: 480px){
+    .dashboard{
+        background-size: 100%;
+        background-position: center;
+        background-repeat: no-repeat;
+        position: relative;
+        height: 78vw;
+        width: 55%;
+        margin-right: auto;
+        margin-left: auto;
+    }
+}
+
+.dash-intro{
+    font-family: Jokerman, sans-serif;
+}
+
+.dash-note{
+    font-family: Arial, serif;
+    font-size: medium;
+}
+
+.dash-buttons > button{
+    font-family: Jokerman, sans-serif;
+    background: white;
+    border-radius: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}

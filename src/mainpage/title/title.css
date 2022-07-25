@@ -1,0 +1,14 @@
+.Title{
+    font-family: Jokerman, serif;
+    font-size: 5vmin;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+@media (max-width: 700px) {
+    .Title{
+        font-family: Jokerman, serif;
+        font-size: 8vmin;
+        margin-top: 0px;
+    }
+}

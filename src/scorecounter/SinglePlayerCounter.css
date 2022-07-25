@@ -1,0 +1,20 @@
+.single-pl-score{
+    font-family: Jokerman, sans-serif;
+    height: 60px;
+}
+
+.single-pl-score > button{
+    font-family: sans-serif;
+    font-size: xx-large;
+    border-radius: 20px;
+    background: white;
+    color: black;
+    display: inline;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.single-pl-score > p{
+    display: inline;
+    font-size: x-large;
+}

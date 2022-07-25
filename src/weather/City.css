@@ -1,0 +1,30 @@
+.weather-header{
+    background: #01e7d4;
+    color: black;
+    border-radius: 20px 20px 0 0;
+    height: 50px;
+    font-family: Jokerman, sans-serif;
+}
+
+.weather-card{
+    width: 400px;
+    height: 300px;
+    border-radius: 20px;
+    background: #002aff;
+    color: white;
+    font-size: x-large;
+    font-family: sans-serif;
+}
+
+@media (max-width: 700px) and (orientation:portrait) {
+    .weather-card{
+        width: 300px;
+        height: 350px;
+        border-radius: 20px;
+        background: #002aff;
+        color: white;
+        font-size: 25px;
+        font-family: sans-serif;
+        margin: 20px;
+    }
+}

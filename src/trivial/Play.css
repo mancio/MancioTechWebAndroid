@@ -1,0 +1,73 @@
+.trivial-play-title{
+    animation: playChangeColor 7s infinite;
+}
+
+@keyframes playChangeColor {
+    25% { color: #e3d917;}
+    50% { color: #c77415;}
+    75% { color: #e31e17;}
+    100% { color: #98e317;}
+}
+
+.trivial-play-box{
+    background: white;
+    border-radius: 20px;
+    color: black;
+    font-family: Jokerman, sans-serif;
+    width: auto;
+    height: auto;
+}
+
+.play-player-list{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    justify-content: space-around;
+    width: auto;
+    height: auto;
+    margin: 25px;
+    border-radius: 20px;
+    border: dotted;
+}
+
+.player-tag{
+    /*background: #c7c112;*/
+    border-radius: 20px;
+    border: dotted;
+}
+
+.score-tag{
+    font-family: sans-serif;
+}
+
+.question-type{
+    text-align: center;
+}
+
+.question-type-tag{
+    background: #2940c0;
+    border-radius: 20px;
+    padding: 5px 30px 5px 30px;
+    color: white;
+}
+
+.current-question{
+    background: #2459dc;
+    color: white;
+    font-family: sans-serif;
+}
+
+.answer-button{
+    background: black;
+    color: white;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 20px;
+    font-size: x-large;
+}
+
+.trivial-continue-button{
+    background: #c7c112;
+    font-size: x-large;
+    color: black;
+    border-radius: 10px;
+}

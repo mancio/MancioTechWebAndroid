@@ -1,0 +1,15 @@
+.webcam{
+    height: 30vw;
+}
+
+.webcam > video{
+    width: 500px;
+    height: 300px;
+}
+
+@media screen and (max-device-width: 480px) and (orientation: portrait){
+    .webcam{
+        width: auto;
+        height: 50vw;
+    }
+}

@@ -1,0 +1,58 @@
+@keyframes subChangeColor {
+    25% { color: #e3d917;}
+    50% { color: #c77415;}
+    75% { color: #e31e17;}
+    100% { color: #98e317;}
+}
+
+.trivial-title{
+    font-family: Jokerman, sans-serif;
+}
+
+.trivial-subtitle{
+    font-family: Jokerman, sans-serif;
+    animation: subChangeColor 7s infinite;
+}
+
+.trivial-setup-box{
+    background: white;
+    color: black;
+    font-family: Jokerman, sans-serif;
+    text-align: left;
+    padding: 20px;
+    border-radius: 20px;
+    /*width: 900px;*/
+    /*height: 400px;*/
+}
+
+.trivial-section{
+   padding-bottom: 20px;
+}
+
+.trivial-input{
+    width: 50px;
+    font-family: Jokerman, sans-serif;
+    font-size: 25px;
+    border-radius: 10px;
+}
+
+.trivial-radio{
+    width: 20px;
+    height: 20px;
+}
+
+.trivial-play-button{
+    border-radius: 10px;
+    background-color: #dad60b;
+    font-family: Jokerman, sans-serif;
+    font-size: x-large;
+    margin-top: 40px;
+}
+
+.trivial-list{
+    width: 180px;
+    font-family: Jokerman, sans-serif;
+    font-size: 25px;
+    border-radius: 10px;
+}
+

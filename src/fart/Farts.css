@@ -1,0 +1,41 @@
+.fart-page{
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+.fart-title{
+    font-family: Jokerman, sans-serif;
+}
+
+.fart-button{
+    margin: 20px;
+    background: white;
+    color: black;
+    border-radius: 20px;
+    font-family: Jokerman, sans-serif;
+    font-size: x-large;
+}
+
+.fart-control-panel{
+    background: white;
+    margin: 25px;
+    border-radius: 30px;
+}
+
+@media (min-width: 700px) {
+    .fart-control-panel{
+        margin-top: 20px;
+        margin-left: auto;
+        margin-right: auto;
+        display: grid;
+        grid-template-columns: auto auto auto;
+        justify-content: space-evenly;
+        width: 800px;
+        height: auto;
+        border: 3px solid red;
+        background: white;
+        padding-top: 25px;
+        padding-bottom: 25px;
+        border-radius: 30px;
+    }
+}

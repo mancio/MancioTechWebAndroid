@@ -1,0 +1,27 @@
+.player-score-board{
+    font-family: Jokerman, sans-serif;
+    background: white;
+    color: black;
+    height: 20%;
+    min-width: 300px;
+    border-radius: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.reset-score-pl-button{
+    background: #cebf42;
+    border-radius: 20px;
+    font-family: sans-serif;
+    font-size: large;
+    margin-top: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.score-pl-note{
+    font-size: large;
+    font-family: Jokerman, sans-serif;
+}

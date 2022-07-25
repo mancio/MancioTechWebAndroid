@@ -1,0 +1,47 @@
+/*.div-contact-form{*/
+/*    min-width: 250px;*/
+/*}*/
+
+
+.contact-title{
+    font-family: Jokerman, sans-serif;
+    font-size: 4vh;
+    color: #c7c112;
+}
+
+.contact-form{
+    border-radius: 20px;
+    width: 96%;
+    background-color: #ffffff;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    display: inline-block;
+    justify-items: center;
+}
+
+.contact-form > input{
+    width: 84%;
+    justify-content: center;
+}
+
+.contact-form > textarea{
+    width: 84%;
+    height: 150px;
+}
+
+.contact-form > label{
+    font-family: Jokerman, serif;
+    font-size: large;
+    color: black;
+    text-align: left;
+    display: block;
+    margin: 20px;
+}
+
+.contact-form > input[type = submit]{
+    border-radius: 10px;
+    background-color: #3d7f35;
+    font-family: Jokerman, sans-serif;
+    font-size: large;
+    margin-top: 15px;
+}

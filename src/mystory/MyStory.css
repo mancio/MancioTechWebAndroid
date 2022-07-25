@@ -1,0 +1,15 @@
+.box{
+    max-width: 1000px;
+    padding: 10px;
+    border: 5px solid #ffffff;
+    margin: 0;
+    text-align: justify;
+}
+
+.box > h1{
+    text-align: center;
+}
+
+.hobby-list{
+    text-align: left;
+}

@@ -1,0 +1,30 @@
+.weather-title{
+    font-family: Jokerman, sans-serif;
+}
+
+.weather-card-box{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    justify-content: space-evenly;
+    width: 1300px;
+    height: auto;
+
+    padding-top: 25px;
+    padding-bottom: 25px;
+
+}
+
+@media (max-width: 700px) and (orientation:portrait) {
+    .weather-title{
+        font-family: Jokerman, sans-serif;
+
+    }
+
+    .weather-card-box{
+        display: grid;
+        grid-template-columns: auto;
+        justify-content: space-evenly;
+        width: 500px;
+        height: auto;
+    }
+}

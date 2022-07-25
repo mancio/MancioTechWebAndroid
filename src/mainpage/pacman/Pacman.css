@@ -1,0 +1,11 @@
+.Pacman {
+    height: 60vmin;
+    margin: 5vmin;
+}
+
+@media (max-width: 700px) {
+    .Pacman{
+        height: 110vmin;
+        margin: 5vmin;
+    }
+}

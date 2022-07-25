@@ -1,0 +1,66 @@
+@keyframes changeColor {
+    25% { box-shadow: 0px 0px 11px 22px #bd6aea;}
+    50% { box-shadow: 0px 0px 11px 22px #32d9b4;}
+    75% { box-shadow: 0px 0px 11px 22px #2ce14a;}
+    100% { box-shadow: 0px 0px 11px 22px #ef0b0b;}
+}
+
+.design-button{
+    margin-left: 10px;
+}
+
+.design-button > svg{
+    height: 10vmin;
+}
+
+.list{
+    display: flex;
+    justify-content: center;
+    margin-top: 5vmin;
+    margin-bottom: 5vmin;
+}
+
+.menu-button{
+    height: 60px;
+    width: auto;
+    border: none;
+    background: none;
+    cursor: pointer;
+    outline: none;
+
+}
+
+.menu-button:active{
+    transform: scale(1.1);
+}
+
+@media (min-width: 700px) {
+    .menu-button-list{
+        display: grid;
+        grid-template-columns: auto auto auto;
+        justify-content: space-evenly;
+        width: 1300px;
+        height: auto;
+        border: 2px solid #ccc;
+        padding-top: 25px;
+        padding-bottom: 25px;
+        box-shadow: 0px 0px 11px 22px #e317e3;
+        outline: dashed 5px #00d188;
+        border-radius: 6px;
+        animation: changeColor 7s infinite;
+    }
+}
+
+.icon-svg-src{
+    padding-top: 15px;
+    font-size: large;
+    font-family: Jokerman, sans-serif;
+}
+
+.icon-svg-src > p > a:link, .icon-svg-src > p > a:visited{
+    color: red;
+}
+
+
+
+

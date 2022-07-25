@@ -1,0 +1,7 @@
+@media (max-width: 700px) and (orientation:portrait) {
+    .weather-map {
+        width: auto;
+        height: 300px;
+        display: initial;
+    }
+}

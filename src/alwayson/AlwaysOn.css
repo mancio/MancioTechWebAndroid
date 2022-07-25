@@ -1,0 +1,58 @@
+.always-on{
+    font-family: Jokerman, sans-serif;
+    font-size: large;
+    align-content: center;
+}
+
+.player-wrapper-always-on {
+    position: relative;
+    padding-top: 30%; /* 720 / 1280 = 0.5625 */
+}
+
+.player-wrapper-always-on-small {
+    position: relative;
+    padding-top: 80%; /* 720 / 1280 = 0.5625 */
+}
+
+.react-player-always-on {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.hide-text-always-on{
+    background: white;
+    color: black;
+    border-radius: 20px;
+    font-family: Jokerman, sans-serif;
+}
+
+.click-always-on{
+    background: white;
+    color: black;
+    border-radius: 20px;
+    font-family: Jokerman, sans-serif;
+    font-size: xx-large;
+}
+
+.alwayson-emoti > p{
+    font-size: 50px;
+}
+
+.script-link{
+    color: #1ee317;
+}
+
+.script-link:hover{
+    cursor: pointer;
+}
+
+.powershell-ico{
+    width: 30px;
+    height: 30px;
+}
+
+.always-on-code-part{
+    margin: auto;
+    width: 90%;
+}

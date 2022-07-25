@@ -1,0 +1,43 @@
+.score-card-title{
+    font-family: Jokerman, sans-serif;
+    font-size: large;
+}
+
+.card-game-name{
+    font-family: Jokerman, sans-serif;
+    font-size: x-large;
+}
+
+.card-game-list{
+    margin-right: auto;
+    margin-left: auto;
+    display: inline;
+}
+
+.card-game-list > button{
+    font-family: Jokerman, sans-serif;
+    font-size: large;
+    color: black;
+    border-radius: 20px;
+    width: 100px;
+    margin: 0 10px 0 10px;
+}
+
+.rules-card-game {
+    font-family: Jokerman, sans-serif;
+    border-style: groove;
+    border-color: #bf00ff;
+    border-width: 10px;
+    width: 200px;
+    margin: 30px auto 50px;
+}
+
+.rules-card-game > a:link {
+    color: #01e7d4;
+    text-decoration: none;
+}
+
+.rules-card-game > a:visited {
+    color: #01e7e7;
+    text-decoration: none;
+}

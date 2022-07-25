@@ -1,0 +1,53 @@
+.cooking-tools-title{
+    font-family: Jokerman, sans-serif;
+    font-size: x-large;
+}
+
+.cooking-tools-text{
+    font-family: Jokerman, sans-serif;
+}
+
+.cooking-calc-box{
+    background: white;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.hydration-calc{
+    font-family: sans-serif;
+    font-size: medium;
+    border-style: dashed;
+    border-color: black;
+    color: black;
+    margin: 10px;
+    padding: 10px;
+}
+
+.hy-calc-input-part{
+    text-align: left;
+    padding-left: 10vw;
+}
+
+@media screen and (max-width: 480px) and (orientation: portrait){
+    .hy-calc-input-part{
+        text-align: left;
+        padding-left: 0;
+    }
+}
+
+.cooking-tools-button{
+    background: white;
+    border-radius: 10px;
+    font-family: Jokerman, sans-serif;
+}
+
+.instr-prop-ing{
+    text-align: left;
+}
+
+.hy-calc-input{
+    margin-right: 10px;
+    border-radius: 5px;
+    width: 45px;
+}
+

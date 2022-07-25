@@ -1,0 +1,28 @@
+.scopa-board-counter{
+    font-family: Jokerman, sans-serif;
+    background: white;
+    color: black;
+    border-radius: 20px;
+    min-width: 200px;
+    min-height: 200px;
+}
+
+.card-button-pic{
+    background: white;
+    border-radius: 20px;
+    padding: 10px;
+    margin: 10px;
+}
+
+.card-button-pic > img{
+    height: 20vmin;
+}
+
+.primera-reset-bt{
+    background: #cebf42;
+    color: black;
+    border-radius: 20px;
+    font-size: large;
+    font-family: sans-serif;
+    margin-bottom: 20px;
+}
