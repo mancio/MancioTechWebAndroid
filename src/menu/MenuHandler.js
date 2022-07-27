@@ -46,17 +46,17 @@ const menu = [
         iconColor: '#00ccfd',
         tag: 'contact'
     },
-    {
-        id: idPlusPlus(),
-        width:250,
-        height:55,
-        svgColor:'#F600FF',
-        textColor: textColor,
-        textField:'EMULATORS',
-        icon: 'EMU',
-        iconColor: '#f600ff',
-        tag: 'emu'
-    },
+    // {
+    //     id: idPlusPlus(),
+    //     width:250,
+    //     height:55,
+    //     svgColor:'#F600FF',
+    //     textColor: textColor,
+    //     textField:'EMULATORS',
+    //     icon: 'EMU',
+    //     iconColor: '#f600ff',
+    //     tag: 'emu'
+    // },
     {
         id: idPlusPlus(),
         width:250,
