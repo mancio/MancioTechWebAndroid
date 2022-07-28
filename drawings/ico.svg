@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="ico.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.70910507"
+     inkscape:cx="345.33282"
+     inkscape:cy="271.74766"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#000001;fill-opacity:1;stroke:none;stroke-width:1.926;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4530"
+       width="57.149998"
+       height="57.149998"
+       x="31.882299"
+       y="31.755209"
+       ry="8.598958"
+       inkscape:export-filename="C:\Users\mancio\WebstormProjects\MancioTechWebAndroid\drawings\ico.png"
+       inkscape:export-xdpi="227.56"
+       inkscape:export-ydpi="227.56" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.57777786px;line-height:1.25;font-family:Jokerman;-inkscape-font-specification:Jokerman;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="61.069145"
+       y="69.430771"
+       id="text4520"
+       inkscape:export-filename="C:\Users\mancio\WebstormProjects\MancioTechWebAndroid\drawings\ico.png"
+       inkscape:export-xdpi="227.56"
+       inkscape:export-ydpi="227.56"><tspan
+         sodipodi:role="line"
+         x="61.069145"
+         y="69.430771"
+         style="font-size:22.57777786px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan4528">MT</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4532"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Jokerman;-inkscape-font-specification:Jokerman;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="scale(0.26458333)"><flowRegion
+         id="flowRegion4534"><rect
+           id="rect4536"
+           width="128"
+           height="89"
+           x="151.5"
+           y="191.01968" /></flowRegion><flowPara
+         id="flowPara4538" /></flowRoot>    <rect
+       style="fill:#000001;fill-opacity:1;stroke:none;stroke-width:6.38024759;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4530-2"
+       width="270.93332"
+       height="132.29167"
+       x="-25.786066"
+       y="164.41165"
+       ry="19.904995"
+       inkscape:export-filename="C:\Users\mancio\WebstormProjects\MancioTechWebAndroid\drawings\ico.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:74.79325104px;line-height:1.25;font-family:Jokerman;-inkscape-font-specification:Jokerman;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.87648338"
+       x="78.668442"
+       y="360.09427"
+       id="text4520-5"
+       inkscape:export-filename="C:\Users\mancio\WebstormProjects\MancioTechWebAndroid\drawings\ico.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       transform="scale(1.4310835,0.69877125)"><tspan
+         sodipodi:role="line"
+         x="78.668442"
+         y="360.09427"
+         style="font-size:74.79325104px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.87648338"
+         id="tspan4528-9">MT</tspan></text>
+  </g>
+</svg>
